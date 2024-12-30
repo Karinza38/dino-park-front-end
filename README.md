@@ -1,4 +1,4 @@
-# DinoPark front-end
+ # DinoPark front-end
 
 A front-end for the repositioned Mozillians, to display, edit and search for people's profiles.
 
