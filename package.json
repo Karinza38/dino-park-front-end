@@ -18,7 +18,7 @@
     "core-js": "^3.6.5",
     "cropd": "^1.0.3",
     "downshift": "^5.4.2",
-    "eslint-plugin-jest": "^23.13.2",
+    "eslint-plugin-jest": "^23.20.0",
     "graphql": "^15.1.0",
     "identicon.js": "^2.3.3",
     "insane": "^2.6.2",
