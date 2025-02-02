@@ -28,7 +28,7 @@
     "preact": "^10.4.4",
     "vue": "^2.6.11",
     "vue-apollo": "^3.0.3",
-    "vue-router": "^3.3.2",
+    "vue-router": "^3.6.5",
     "vuex": "^3.4.0"
   },
   "devDependencies": {
