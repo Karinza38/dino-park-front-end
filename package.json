@@ -19,7 +19,7 @@
     "cropd": "^1.0.3",
     "downshift": "^5.4.2",
     "eslint-plugin-jest": "^23.13.2",
-    "graphql": "^15.1.0",
+    "graphql": "^15.9.0",
     "identicon.js": "^2.3.3",
     "insane": "^2.6.2",
     "lodash.throttle": "^4.1.1",
