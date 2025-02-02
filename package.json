@@ -15,7 +15,7 @@
     "apollo-boost": "^0.4.9",
     "apollo-cache-inmemory": "^1.6.6",
     "blueimp-load-image": "^5.12.0",
-    "core-js": "^3.6.5",
+    "core-js": "^3.40.0",
     "cropd": "^1.0.3",
     "downshift": "^5.4.2",
     "eslint-plugin-jest": "^23.13.2",
